@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "devDependencies": {
-    "tape": "5.3.2"
+    "tape": "5.4.0"
   },
   "testling": {
     "files": "test/*.js",
